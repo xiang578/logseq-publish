@@ -1,0 +1,4 @@
+:root { --ls-font-family: 'LXGW WenKai', 'Helvetica Neue', sans-serif; 
+	--ct-text-size: 16px; /*基础字体大小*/
+	--ct-line-height: 1.6; /*基础行间距*/
+}
